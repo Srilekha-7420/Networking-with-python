@@ -1,0 +1,2 @@
+hiii hlo
+test write...test write.../n this should append to a file
